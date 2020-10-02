@@ -1,0 +1,13 @@
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\bin\Debug\prj_vbNet_201931107.exe.config
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\bin\Debug\prj_vbNet_201931107.exe
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\bin\Debug\prj_vbNet_201931107.pdb
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\bin\Debug\prj_vbNet_201931107.xml
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.vbprojAssemblyReference.cache
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.Frmcoba.resources
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.Resources.resources
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.vbproj.GenerateResource.cache
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.vbproj.CoreCompileInputs.cache
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.exe
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.xml
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.pdb
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.kalkulator_siti_taqiyah_201931107.resources
