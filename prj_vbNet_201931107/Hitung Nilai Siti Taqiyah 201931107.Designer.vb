@@ -35,6 +35,8 @@ Partial Class Hitung_Nilai_Sii_Taqiyah_201931107
         Me.BTN_PROSES = New System.Windows.Forms.Button()
         Me.BTN_TAMPIL = New System.Windows.Forms.Button()
         Me.BTN_HAPUS = New System.Windows.Forms.Button()
+        Me.TXT_KETERANGAN = New System.Windows.Forms.TextBox()
+        Me.Label6 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Label1
@@ -121,7 +123,7 @@ Partial Class Hitung_Nilai_Sii_Taqiyah_201931107
         '
         'BTN_PROSES
         '
-        Me.BTN_PROSES.Location = New System.Drawing.Point(83, 194)
+        Me.BTN_PROSES.Location = New System.Drawing.Point(57, 194)
         Me.BTN_PROSES.Name = "BTN_PROSES"
         Me.BTN_PROSES.Size = New System.Drawing.Size(75, 23)
         Me.BTN_PROSES.TabIndex = 10
@@ -130,7 +132,7 @@ Partial Class Hitung_Nilai_Sii_Taqiyah_201931107
         '
         'BTN_TAMPIL
         '
-        Me.BTN_TAMPIL.Location = New System.Drawing.Point(200, 194)
+        Me.BTN_TAMPIL.Location = New System.Drawing.Point(165, 194)
         Me.BTN_TAMPIL.Name = "BTN_TAMPIL"
         Me.BTN_TAMPIL.Size = New System.Drawing.Size(75, 23)
         Me.BTN_TAMPIL.TabIndex = 11
@@ -139,18 +141,37 @@ Partial Class Hitung_Nilai_Sii_Taqiyah_201931107
         '
         'BTN_HAPUS
         '
-        Me.BTN_HAPUS.Location = New System.Drawing.Point(314, 194)
+        Me.BTN_HAPUS.Location = New System.Drawing.Point(112, 243)
         Me.BTN_HAPUS.Name = "BTN_HAPUS"
         Me.BTN_HAPUS.Size = New System.Drawing.Size(75, 23)
         Me.BTN_HAPUS.TabIndex = 12
         Me.BTN_HAPUS.Text = "Hapus"
         Me.BTN_HAPUS.UseVisualStyleBackColor = True
         '
+        'TXT_KETERANGAN
+        '
+        Me.TXT_KETERANGAN.Location = New System.Drawing.Point(289, 194)
+        Me.TXT_KETERANGAN.Name = "TXT_KETERANGAN"
+        Me.TXT_KETERANGAN.Size = New System.Drawing.Size(100, 20)
+        Me.TXT_KETERANGAN.TabIndex = 14
+        '
+        'Label6
+        '
+        Me.Label6.AutoSize = True
+        Me.Label6.Cursor = System.Windows.Forms.Cursors.SizeAll
+        Me.Label6.Location = New System.Drawing.Point(286, 178)
+        Me.Label6.Name = "Label6"
+        Me.Label6.Size = New System.Drawing.Size(62, 13)
+        Me.Label6.TabIndex = 13
+        Me.Label6.Text = "Keterangan"
+        '
         'Hitung_Nilai_Sii_Taqiyah_201931107
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(474, 344)
+        Me.Controls.Add(Me.TXT_KETERANGAN)
+        Me.Controls.Add(Me.Label6)
         Me.Controls.Add(Me.BTN_HAPUS)
         Me.Controls.Add(Me.BTN_TAMPIL)
         Me.Controls.Add(Me.BTN_PROSES)
@@ -184,4 +205,6 @@ Partial Class Hitung_Nilai_Sii_Taqiyah_201931107
     Friend WithEvents BTN_PROSES As Button
     Friend WithEvents BTN_TAMPIL As Button
     Friend WithEvents BTN_HAPUS As Button
+    Friend WithEvents TXT_KETERANGAN As TextBox
+    Friend WithEvents Label6 As Label
 End Class
