@@ -80,6 +80,12 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Hitung Nilai Siti Taqiyah 201931107.Designer.vb">
+      <DependentUpon>Hitung Nilai Siti Taqiyah 201931107.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hitung Nilai Siti Taqiyah 201931107.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="kalkulator siti taqiyah 201931107.Designer.vb">
       <DependentUpon>kalkulator siti taqiyah 201931107.vb</DependentUpon>
     </Compile>
@@ -106,6 +112,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hitung Nilai Siti Taqiyah 201931107.resx">
+      <DependentUpon>Hitung Nilai Siti Taqiyah 201931107.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="kalkulator siti taqiyah 201931107.resx">
       <DependentUpon>kalkulator siti taqiyah 201931107.vb</DependentUpon>

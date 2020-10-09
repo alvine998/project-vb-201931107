@@ -32,7 +32,7 @@ Namespace My
         
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()>  _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.prj_vbNet_201931107.kalkulator_siti_taqiyah_201931107
+            Me.MainForm = Global.prj_vbNet_201931107.Hitung_Nilai_Sii_Taqiyah_201931107
         End Sub
     End Class
 End Namespace

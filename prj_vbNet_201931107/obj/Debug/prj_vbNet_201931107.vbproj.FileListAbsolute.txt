@@ -11,3 +11,4 @@ C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug
 C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.xml
 C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.pdb
 C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.kalkulator_siti_taqiyah_201931107.resources
+C:\Users\alvinepc\source\repos\prj_vbNet_201931107\prj_vbNet_201931107\obj\Debug\prj_vbNet_201931107.Hitung_Nilai_Sii_Taqiyah_201931107.resources
